@@ -1,5 +1,5 @@
-
-	 [
+{
+	"properties": [
 		{
 			"id": 1,
 			"name": "primaryXAxis",
@@ -10,6 +10,62 @@
 			"id": 2,
 			"name": "valueType",
 			"pid": 1
+		},
+		{
+			"id": 5,
+			"name": "legendSettings",
+			"hasChild": true,
+			"expanded": true
+		},
+		{
+			"id": 6,
+			"name": "visible",
+			"pid": 5
+		},
+		{
+			"id": 7,
+			"name": "position",
+			"pid": 5
+		},
+		{
+			"id": 8,
+			"name": "tooltip",
+			"hasChild": true,
+			"expanded": true
+		},
+		{
+			"id": 9,
+			"name": "enable",
+			"pid": 8
+		},
+		{
+			"id": 10,
+			"name": "chartArea",
+			"hasChild": true,
+			"expanded": true
+		},
+		{
+			"id": 11,
+			"name": "border",
+			"hasChild": true,
+			"pid": 10,
+			"expanded": true
+		},
+		{
+			"id": 12,
+			"name": "width",
+			"pid": 11
+		},
+		{
+			"id": 13,
+			"name": "primaryYAxis",
+			"hasChild": true,
+			"expanded": true
+		},
+		{
+			"id": 14,
+			"name": "labelFormat",
+			"pid": 13
 		}
 	]
-
+}
