@@ -1,6 +1,5 @@
 
-	{
-		"properties": [
+[
 			{
 				"id": 1,
 				"name": "primaryXAxis",
@@ -69,5 +68,5 @@
 				"pid": 13
 			}
 		]
-	}
+
 
